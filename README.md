@@ -1,2 +1,3 @@
 # hello-world
-my first project
+这是我第一个git的文档
+铭记一下!
